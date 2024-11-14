@@ -6,3 +6,6 @@ url: https://doc.godspeedproject.com/GodspeedProject/
 
 aux_links:
   Template Repository: https://github.com/john-fatboygarage/GodspeedProject
+
+plugins:
+  - jekyll-default-layout

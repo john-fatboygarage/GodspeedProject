@@ -4,12 +4,11 @@ theme: just-the-docs
 
 url: https://doc.godspeedproject.com/GodspeedProject/
 
-aux_links:
-  Template Repository: https://github.com/john-fatboygarage/GodspeedProject
+#aux_links:
+ # Template Repository: https://github.com/john-fatboygarage/GodspeedProject
 
 plugins:
   - jekyll-default-layout
-
   
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "https://godspeedproject.com/skin/frontend/rwd/godspeed/images/logo_godspeed-bk.png"
